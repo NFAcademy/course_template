@@ -9,7 +9,7 @@ Having a common folder structure will help us when building courses in the onlin
 
 ## Instructions
 
-Use the link from GitHub Classroom to create your repository based on this template. 
+Use the link from [GitHub Classroom](https://classroom.github.com) to create your repository based on this template. 
 Add your content as Jupyter notebooks in the `notebooks` folder, and name them with a numeric prefix:
 
 - `01_title_of_first_lesson.ipynb`
