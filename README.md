@@ -25,7 +25,9 @@ Add in the `images` and `scripts` folders any images embedded in the Markdown ce
 
 Optionally, you can share any slides in the `slides` folder. We prefer text-based source, but you can also drop PDF files in there (please no binaries like .pptx).
 
-**Important**: Add all code dependencies to the `requirements.txt` file. 
+**Important**: Add all code dependencies to the `requirements.txt` or `environment.yaml` file. 
+
+> For more detailed instructions, read the [Course Development Guide](https://github.com/NFAcademy/course_template/blob/main/Course_Development_Guide.md).
 
 ## How we build your course
 
