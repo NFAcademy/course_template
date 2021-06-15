@@ -50,3 +50,14 @@ We ask that materials be shared under an open-source license of the author's cho
 ## NumFOCUS Academy
 
 The NumFOCUS Academy is an educational initiative begun in 2020, 
+to develop online learning opportunities for our community. 
+It first served as a platform for the online conferences JupyterCon 2020 and PyData Global. 
+
+In 2021, we are developing a catalog of courses to build your skills on the most useful open-source software tools for data science and technical computing.
+
+At NumFOCUS Academy, we aim to create learning opportunities inspired by the open-source ethos. Our courses teach about the NumFOCUS projects, often by the project contributors themselves. 
+No other learning platform has this to offer!
+
+Our instructors are members of the NumFOCUS international community, contribute to our open-source projects, and share their expertise widely. 
+Want to be a part of it? 
+Get in touch by emailing: [academy-admin@numfocus.org](mailto:academy-admin@numfocus.org)
