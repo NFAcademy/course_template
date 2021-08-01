@@ -142,7 +142,7 @@ Work down the notebook making a selection for every cell:
 
 - "Read-only" for markdown cells with instructions, and cells with `import` commands that you don't want anyone to mess with.
 - "Autograded answer" for code cells that contain the solutions.
-- "Autograded test" for code cells that contain teh tests.
+- "Autograded test" for code cells that contain the tests.
 
 Save the notebook, and this is the version you should send to us. We will create a _private repository_ for all the assignment notebooks. 
 Don't include them in the public course repository.
